@@ -7,10 +7,10 @@ MFFT
 We thank the authors of the following repositories for their open-source code and data:
 
 - **DenseUAV**  
-  Repository: [DenseUAV](https://github.com/gmberton/datasets_vg)
-  - **Infini-Transformer**  
+  Repository: [DenseUAV](https://github.com/Dmmm1997/DenseUAV)
+- **Infini-Transformer**  
   Repository: [Infini-Transformer](https://github.com/dingo-actual/infini-transformer/tree/main)
-  - **FeatureBooster**  
+- **FeatureBooster**  
   Repository: [FeatureBooster](https://github.com/SJTU-ViSYS/FeatureBooster)  
 
 
