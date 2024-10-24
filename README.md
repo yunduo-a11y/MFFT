@@ -4,7 +4,7 @@ MFFT
 
 ## Data Validation
 
-You can download the pre-extracted UAV-Satellite feature data by using the provided request template. Once the data is obtained, you can verify the results using the `evaluate_gpu.py` script.
+You can download the pre-extracted UAV-Satellite feature data by using the provided request template [here](./doc/request.md). Once the data is obtained, you can verify the results using the `evaluate_gpu.py` script.
 
 
 ## References
