@@ -1,6 +1,6 @@
 # MFFT
 MFFT
-@misc{wang2020linformer,
+
 
 
 ## References
