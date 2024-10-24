@@ -1,10 +1,11 @@
 # MFFT
 MFFT
 @misc{wang2020linformer,
-    title={Linformer: Self-Attention with Linear Complexity},
-    author={Sinong Wang and Belinda Z. Li and Madian Khabsa and Han Fang and Hao Ma},
-    year={2020},
-    eprint={2006.04768},
-    archivePrefix={arXiv},
-    primaryClass={cs.LG}
-}
+
+
+## References
+We thank the authors of the following repositories for their open-source code and data:
+
+- **VPR Datasets**  
+  Repository: [gmberton/datasets_vg](https://github.com/gmberton/datasets_vg)  
+  Description: Downloading and formatting various visual place recognition datasets.
