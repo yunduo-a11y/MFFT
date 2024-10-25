@@ -1,5 +1,6 @@
 # MFFT
-MFFT
+This is the official implementation repository for the MFFT algorithm. We will upload the training files and model files as soon as the paper is accepted.
+
 
 
 ## Data Validation
