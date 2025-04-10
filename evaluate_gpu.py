@@ -57,6 +57,7 @@ def compute_mAP(index, good_index, junk_index):
     return ap, cmc
 
 ######################################################################
+#Used to verify experimental results on the denseuav dataset
 result = scipy.io.loadmat('pytorch_result_1.mat')
 query_feature = torch.FloatTensor(result['query_f'])
 query_label = result['query_label'][0]
